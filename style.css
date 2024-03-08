@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #212121;
+}
+
+.container{
+    background: linear-gradient(45deg, #2f9ba7,#1c6597);
+    width: 30%;
+    margin: 100px auto 0;
+    padding: 30px 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+.search-bar{
+    
+}
